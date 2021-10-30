@@ -13,5 +13,13 @@ class Teste2 {
 		
 		assertEquals(a , 2);
 	}
+	
+	@Test
+	void testarSeIgualATres() {
+		
+		int x = 2 + 10 - 9;
+		
+		assertEquals(3, x);
+	}
 
 }
