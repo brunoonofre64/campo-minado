@@ -1,0 +1,4 @@
+Regua class
+
+
+
