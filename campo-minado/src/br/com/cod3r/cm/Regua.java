@@ -1,4 +1,6 @@
-Regua class
+public class Regua
+
+
 
 
 
