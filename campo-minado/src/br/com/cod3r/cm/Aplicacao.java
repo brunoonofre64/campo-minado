@@ -7,7 +7,7 @@ public class Aplicacao {
 	
 	public static void main(String[] args) {
 		
-		Tabuleiro tabuleiro = new Tabuleiro(6, 6, 6);
+		Tabuleiro tabuleiro = new Tabuleiro(9, 9, 20);
 		new TabuleiroConsole(tabuleiro);
 		
 	
